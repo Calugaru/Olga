@@ -1,0 +1,40 @@
+body {
+    color: #575656;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+    width: 55%;
+    height: 900px;
+    margin: 20px auto;
+    background-color: #f9e0e3;
+    border-radius: 0px;
+    z-index: 1;
+}
+
+.info {
+    margin-left: 30px;
+    padding-top: 25px;
+    font-size: large;
+}
+
+.header,
+.header1 {
+    color: #570202;
+    font-size: x-large;
+    padding-top: 35px;
+    padding-left: 150px;
+}
+
+.header1 {
+    padding-left: 70px;
+}
+
+.information {
+    color: #f2796e;
+}
+
+.slinks {
+    font-size: 30px;
+    margin-left: 5px;
+}
